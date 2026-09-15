@@ -13,8 +13,13 @@
 
 ## 🖼️ 界面预览
 
-<!-- TODO: 替换为实际截图 -->
-![screenshot placeholder](docs/screenshot.png)
+**7 步向导 · 档案创建**
+
+![7步向导-档案创建](docs/screenshot-profile.png)
+
+**推演结果 · 三条路径综合评分**
+
+![推演结果-路径评分](docs/screenshot-result.png)
 
 ## 🛠️ 技术栈
 
